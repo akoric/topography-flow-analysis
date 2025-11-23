@@ -4,6 +4,8 @@ This repository contains analysis scripts developed by **Amar Koric** as part of
 
 > **"Quantifying Topography–Flow Relationships: Implications for Turbulent Flow and Roughness Characterization"**
 
+This work was carried out under the supervision of **Dr. Leonardo P. Chamorro** in the **Renewable Energy & Turbulent Environment Group** at the **University of Illinois Urbana-Champaign**.
+
 The code here was used to explore and quantify relationships between digital elevation model (DEM) topography and turbulent flow statistics. Not all scripts and not all results produced from these programs will appear in the final version of the paper, but they reflect the broader set of tests and diagnostics that informed the work.
 
 ## Data availability
