@@ -37,7 +37,7 @@ Performs post-processing and comparison between flow-derived descriptors and DEM
 - Systematically tests combinations of roughness/flow parameters raised to integer powers, and fits simple linear relationships between flow and DEM combinations.
 - Records combinations with high coefficient of determination (R²), and produces simple scatter plots for the best-performing relationships.
 
-This script was used to scan for compact descriptor combinations that best capture the link between flow statistics and surface roughness.
+This script was used as an initial brute-force exploratory study to scan for compact descriptor combinations that could guide and motivate the more focused analyses and methods developed later in the project.
 
 ## Python descriptor tools
 
